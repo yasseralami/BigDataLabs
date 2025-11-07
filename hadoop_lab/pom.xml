@@ -46,7 +46,7 @@
                             <mainClass>edu.supmti.hadoop.HadoopFileStatus</mainClass>
                         </manifest>
                     </archive>
-                    <finalName>hadoop-app</finalName>
+                    <finalName>hadoop-app-supmti</finalName>
                 </configuration>
             </plugin>
         </plugins>
